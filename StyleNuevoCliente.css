@@ -1,0 +1,63 @@
+@font-face {
+    font-family:'Fuente' ;
+    src: url(PantonNarrow-Trial-Black.ttf);
+  }
+  
+  body{
+      font-family: 'Fuente';
+      margin: 0;
+      background-color: rgb(54, 0, 38);
+  }
+  .navbar {
+      background-color: rgb(255, 255, 255);
+      margin: 0;
+      padding: 1rem;
+      list-style-type: none;
+     
+      
+    }
+    
+  .navbarr{
+      display: inline;
+      margin-right: 30px ;
+   
+  }
+  span{
+      
+      color:rgb(54, 0, 38);;
+      border-radius: 8px;
+      background-color: white;
+      color:(54, 0, 38);
+      padding: 5px 10px;
+      
+  }
+  span:hover{
+    color: rgb(151, 0, 106);
+  }
+    a{
+      margin: 1px;
+      color:rgb(54, 0, 38);
+        text-decoration: none;
+  }
+  a:hover{
+    color: rgb(151, 0, 106);
+  }
+
+  H1{
+    text-align: center;
+    color: white;
+  }  
+
+    table{
+        
+        font-size: 20px;
+        caption-side: bottom;
+        color: white;
+        margin-left: auto;
+        margin-right: auto;
+        border-spacing: 20px;
+        
+
+    }
+    
+    

@@ -1,0 +1,87 @@
+@font-face {
+  font-family:'Fuente' ;
+  src: url(PantonNarrow-Trial-Black.ttf);
+}
+
+body{
+    font-family: 'Fuente';
+    margin: 0;
+    background-color: rgb(54, 0, 38);
+}
+.navbar {
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 1rem;
+    list-style-type: none;
+   
+    
+  }
+  
+.navbarr{
+    display: inline;
+    margin-right: 30px ;
+ 
+}
+span{
+    color:rgb(54, 0, 38);;
+    border-radius: 8px;
+    background-color: white;
+    color:(54, 0, 38);
+    padding: 5px 10px;
+}
+span:hover{
+  color: rgb(151, 0, 106);
+}
+  a{
+    margin: 1px;
+    color:rgb(54, 0, 38);
+        text-decoration: none;
+}
+a:hover{
+  color: rgb(151, 0, 106);
+}
+
+.table{
+    
+   text-align: center;
+  }
+  
+  table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+    
+  }
+  
+  th, td {
+    padding: 10px;
+    color: white;
+    
+    
+  }
+  
+  th{
+    color: white;
+    
+  }
+
+  H1{
+    text-align: center;
+    color: white;
+  }
+
+  .acciones{
+    text-align: center;
+    
+  }
+
+  form{
+    text-align: center;
+    color: white;
+  }
+
+
+   
